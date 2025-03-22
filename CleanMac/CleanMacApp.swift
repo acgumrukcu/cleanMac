@@ -11,7 +11,7 @@ import SwiftUI
 struct CleanMacApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
